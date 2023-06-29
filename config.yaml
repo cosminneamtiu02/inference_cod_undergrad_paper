@@ -1,0 +1,9 @@
+s3:
+    bucket_name: lateral-ai-internship
+    region: eu-west-3
+    input_path: input_images/
+    output_path: output_images/
+
+local:
+    input_path: static/inputs/
+    output_path: static/outputs/

@@ -1,0 +1,12 @@
+Flask~=2.2.2
+flask-expects-json==1.7.0
+onnxruntime~=1.12.0
+opencv-python==4.6.0.66
+gunicorn==20.1.0
+numpy~=1.23.2
+PyYAML~=6.0
+boto3~=1.24.56
+botocore~=1.27.56
+shortuuid~=1.0.9
+firebase-admin
+Pillow
